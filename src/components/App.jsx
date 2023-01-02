@@ -2,7 +2,7 @@ import React from "react";
 function App(){
     return (
         <div>
-            <h1>Practice Portfolio Run</h1>
+            <h1>Practice Portfolio Run (EDIT)</h1>
         </div>
     );
 }
