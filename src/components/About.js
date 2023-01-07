@@ -42,6 +42,8 @@ function About() {
                             {/*
                             <a href="javascript:void( window.open( 'https://form.jotform.com/230024697676160', 'blank', 'scrollbars=yes, toolbar=no, width=700, height=500' ) ) "><button className="about btn target">Let's get in touch</button></a>
                             */}
+                            <a href='/TylerQuinn03.pdf' download><button className="about btn target">Download Resume</button></a>
+                            
                         </div>
                         
 

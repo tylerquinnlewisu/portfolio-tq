@@ -48,7 +48,15 @@ h1.portfolio_txt {
     font-family: 'Roboto Slab', serif;
     padding: 10px 0px;
 }
-/* RESPONSIVE */
+
+.viewcode{
+    color: #fff;
+}
+
+.viewcode:hover{
+    color: #1d1d1d;
+}
+
 @media only screen and (max-width: 1024px){
 .portfolio_set {
     padding: 32px;

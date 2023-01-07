@@ -30,11 +30,11 @@ button.about.btn.target {
     }
 }
 @media only screen and (max-width: 425px){
-button.about.btn.target {
-    text-transform: capitalize;
-    width: 165px;
-    height: 50px;
-    font-size: 13px;
-    transition: .4s ease;
-}
+    button.about.btn.target {
+        text-transform: capitalize;
+        width: 165px;
+        height: 50px;
+        font-size: 13px;
+        transition: .4s ease;
+    }
 }
