@@ -109,7 +109,7 @@ function Portfolio() {
                 <p className="p portfolio_txt p_color">guess a series of favorite places from a Google Maps interface.</p>
               </div>
               <br />
-              <a className='viewcode' href='https://github.com/'>View Code</a>
+              <a className='viewcode' href='https://github.com/tylerquinnlewisu/map-mania'>View Code</a>
             </div>
             <br />
           </a>
@@ -135,7 +135,7 @@ function Portfolio() {
                 <p className="p portfolio_txt p_color"> whenever a button is clicked.</p>
               </div>
               <br />
-              <a className='viewcode' href='https://github.com/'>View Code</a>
+              <a className='viewcode' href='https://github.com/tylerquinnlewisu/randomquote'>View Code</a>
             </div>
           </a>
 
